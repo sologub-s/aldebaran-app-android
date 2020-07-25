@@ -1,0 +1,2 @@
+rootProject.name='aldebaran-rc'
+include ':app'
